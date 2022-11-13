@@ -7,7 +7,7 @@
 degit https://github.com/mysteryven/nodejs-cmd-template
 ```
 
-## 
+## Preview
 
 ```bash
 pnpm i
