@@ -17,7 +17,7 @@ node dist/index.js my name is mysteryzzz
 
 ## Test
 
-I only added `vitest`, but not found a good way to test command.
+I only add `vitest`, but not found a straightforward way to test command.
 
 ```bash
 // TODO
