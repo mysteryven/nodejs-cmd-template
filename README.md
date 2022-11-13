@@ -3,8 +3,9 @@
 
 ## Use this template
 
-```
-degit https://github.com/mysteryven/nodejs-cmd-template
+```bash
+npm i -g degit 
+degit https://github.com/mysteryven/nodejs-cmd-template projectName
 ```
 
 ## Preview
