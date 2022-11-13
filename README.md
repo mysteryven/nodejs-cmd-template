@@ -1,6 +1,12 @@
 # Nodejs cmd template
 
 
+## Use this template
+
+```
+degit https://github.com/mysteryven/nodejs-cmd-template
+```
+
 ## 
 
 ```bash
